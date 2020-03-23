@@ -1,4 +1,4 @@
-# svelte template with svelte-spa-router 
+# svelte with svelte-spa-router (and just for fun ---- jquery! I also missed it ALOT!)
 
 #Experimenting with the flexibility of 'Svelte' It is truly amazing!! 
 
