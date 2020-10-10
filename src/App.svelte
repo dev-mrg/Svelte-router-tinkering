@@ -5,6 +5,7 @@ import jQuery from 'jquery';
   import Blog from "./Blog.svelte";
   import Login from "./auth/Login";
   import Register from "./auth/Register";
+  import { user } from "./utils/store.js";
   import Router, { location } from "svelte-spa-router";
 const j$ = jQuery;
 
