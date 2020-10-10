@@ -54,11 +54,11 @@ export function loc() {
 
 <nav class="navigation">
   <a class="a" href="#/home" on:click={loc}>Home</a>
-  
+    <a id="log" class="a" href="#/login">Login</a>
+  <a id="reg" class="a" href="#/register">Register</a>
   <a class="a" href="#/learn" on:click={loc}>Learn More</a>
   <a class="a" href="#/blog" on:click={loc}>Blog</a>
-  <a id="log" class="routes" href="#/login">Login</a>
-  <a id="reg" class="routes" href="#/register">Register</a>
+
 </nav>
 <h1 id="h1">
 Welcome Svelte Is Awesome
